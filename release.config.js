@@ -1,6 +1,6 @@
 module.exports = {
     branches: "main",
-    repositoryUrl: "https://github.com/Life12face/CLD-3.git",
+    repositoryUrl: "https://github.com/Life12face/CLD-3",
     plugins: [
       '@semantic-release/commit-analyzer',
       '@semantic-release/release-notes-generator',
